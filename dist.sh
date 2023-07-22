@@ -1,7 +1,7 @@
 #!/bin/bash
 # A Basic Test example Script to distribute ravencoin assets
 # With some mempool checking to prevent 'overflows' of the mempool 'buffer'
-
+export PATH=/<path/to/raven/bin/folder>:$PATH
 # Author: push, (Adam Bull, Ravenland.org)
 # Date: 19/03/2019
 
