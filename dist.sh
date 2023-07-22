@@ -1,4 +1,5 @@
 #!/bin/bash
+export PATH=/path/to/raven/bin/folder:$PATH
 
 ASSET="<Asset Name>"
 AMOUNT="1"
